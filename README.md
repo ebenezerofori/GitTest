@@ -1,2 +1,2 @@
 $MyAPP
-This is my My App
+This is a branch of my My App
